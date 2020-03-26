@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoccerScore</string>
+    <string name="setTeamA">Enter Team A</string>
+    <string name="setTeamB">Enter Team B</string>
+</resources>
